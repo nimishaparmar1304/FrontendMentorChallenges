@@ -1,0 +1,59 @@
+
+body{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    background-color: hsl(212, 45%, 89%);
+}
+.qr-component{
+    height: 480px;
+    width: 350px;
+    border-radius: 5%;
+    border: 1px solid black;
+    background-color:hsl(0, 0%, 100%);
+    margin: 100px 0px 0px 800px;
+}
+.imageSet{
+    margin:10px 15px 15px 10px;
+    border-radius: 5%;
+    height: 300px;
+    width: 325px;
+    border: 1px solid white;
+    
+   
+}
+
+div img{
+    height: 300px;
+    width: 325px;
+    border-radius: 5%;
+}
+h2{text-align: center;}
+
+
+@media (max-width: 375px) {
+    .qr-component {
+        font-weight: 400;
+        width: 90%; 
+        margin: 50px auto; 
+    }
+    .imageSet {
+        width: 90%; 
+    }
+    div img {
+        width: 100%; 
+    }
+}
+
+/* Media query for desktop devices */
+@media (min-width: 1440px) {
+    .qr-component {
+        width: 350px; 
+        margin: 100px 0 0 800px; 
+    }
+    .imageSet {
+        width: 325px; 
+    }
+    div img {
+        width: 325px; 
+    }
+}
