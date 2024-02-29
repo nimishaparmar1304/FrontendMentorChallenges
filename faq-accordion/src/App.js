@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Faq from './Component/Faq';
+import '../src/Component/Faq.css';
 import starIcon from './assets/images/icon-star.svg';
 import { useState } from 'react';
 import { QUESTIONS } from './data';
