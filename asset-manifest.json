@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nimishaparmar1304/FrontendMentorChallenges/static/css/main.507d1509.css",
+    "main.js": "/nimishaparmar1304/FrontendMentorChallenges/static/js/main.631b199c.js",
+    "static/js/453.4940cf0d.chunk.js": "/nimishaparmar1304/FrontendMentorChallenges/static/js/453.4940cf0d.chunk.js",
+    "static/media/logo.svg": "/nimishaparmar1304/FrontendMentorChallenges/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/background-pattern-mobile.svg": "/nimishaparmar1304/FrontendMentorChallenges/static/media/background-pattern-mobile.bbadbddabee663bba888.svg",
+    "static/media/background-pattern-desktop.svg": "/nimishaparmar1304/FrontendMentorChallenges/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/nimishaparmar1304/FrontendMentorChallenges/index.html",
+    "static/media/icon-star.svg": "/nimishaparmar1304/FrontendMentorChallenges/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/nimishaparmar1304/FrontendMentorChallenges/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/nimishaparmar1304/FrontendMentorChallenges/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.507d1509.css.map": "/nimishaparmar1304/FrontendMentorChallenges/static/css/main.507d1509.css.map",
+    "main.631b199c.js.map": "/nimishaparmar1304/FrontendMentorChallenges/static/js/main.631b199c.js.map",
+    "453.4940cf0d.chunk.js.map": "/nimishaparmar1304/FrontendMentorChallenges/static/js/453.4940cf0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507d1509.css",
+    "static/js/main.631b199c.js"
+  ]
+}
